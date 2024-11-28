@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Us-TvShow-kapittx/static/css/main.e6c13ad2.css",
+    "main.js": "/Us-TvShow-kapittx/static/js/main.1a4a1a3c.js",
+    "static/js/453.42fdab69.chunk.js": "/Us-TvShow-kapittx/static/js/453.42fdab69.chunk.js",
+    "index.html": "/Us-TvShow-kapittx/index.html",
+    "main.e6c13ad2.css.map": "/Us-TvShow-kapittx/static/css/main.e6c13ad2.css.map",
+    "main.1a4a1a3c.js.map": "/Us-TvShow-kapittx/static/js/main.1a4a1a3c.js.map",
+    "453.42fdab69.chunk.js.map": "/Us-TvShow-kapittx/static/js/453.42fdab69.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1a4a1a3c.js"
+  ]
+}
